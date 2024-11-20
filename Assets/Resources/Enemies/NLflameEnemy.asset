@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32513df6a79f87e47872d9f4ea74174f, type: 3}
+  m_Name: NLflameEnemy
+  m_EditorClassIdentifier: 
+  NLenemyPrefab: {fileID: 1038365238016582862, guid: 0cd77b4b614e6194fa53eb107519b9d3, type: 3}
+  NLenemyID: 2
